@@ -46,3 +46,29 @@ To get started with this project, follow these steps:
 After compiling the code, you can run the executable:
 ```bash
 ./dsa_project
+```
+
+## Contributing
+
+Contributions are welcome! If you have suggestions for improvements, please follow these steps:
+
+1. **Fork the repository.**
+2. **Create a new branch** (`git checkout -b feature-branch`).
+3. **Commit your changes** (`git commit -am 'Add new feature'`).
+4. **Push to the branch** (`git push origin feature-branch`).
+5. **Create a new Pull Request.**
+
+Read our [CONTRIBUTING](CONTRIBUTING.md) guidelines for more details.
+
+## License
+
+This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any inquiries or feedback, feel free to reach out:
+
+- **GitHub**: [hzjadoon](https://github.com/hzjadoon)
+- **Email**: [hzjadoon@example.com](mailto:Hassanzaibjadoon2004@gmail.com)
+
+
