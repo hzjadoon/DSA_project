@@ -61,6 +61,6 @@ This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENS
 ## Contact
 For any inquiries or feedback, feel free to reach out:
 - **GitHub**: [hzjadoon](https://github.com/hzjadoon)
-- **Email**: [hzjadoon@example.com](mailto:Hassanzaibjadoon2004@gmail.com)
+- **Email**: [hassanzaibjadoon2004@gmail.com](mailto:Hassanzaibjadoon2004@gmail.com)
 
 
