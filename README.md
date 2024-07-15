@@ -20,8 +20,6 @@
 ## Introduction
 Welcome to the DSA Project repository! This project showcases implementations of various Data Structures and Algorithms in C++. It's designed to help computer science students and professionals understand and apply DSA concepts.
 
-![DSA Illustration](https://via.placeholder.com/800x400.png?text=Data+Structures+and+Algorithms)
-
 ## Features
 - Implementations of common data structures such as arrays, linked lists, stacks, queues, trees, and graphs.
 - Various sorting algorithms including quicksort, mergesort, and heapsort.
