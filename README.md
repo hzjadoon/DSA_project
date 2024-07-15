@@ -1,6 +1,6 @@
 # DSA Project
 
-![DSA Project Banner]([https://via.placeholder.com/1200x300.png?text=DSA+Project](https://github.com/hzjadoon/DSA_project/blob/main/Readme%20Files/Community%20Management%20System.png))
+![DSA Project Banner](https://github.com/hzjadoon/DSA_project/blob/main/Readme%20Files/Community%20Management%20System.png)
 
 [![GitHub issues](https://img.shields.io/github/issues/hzjadoon/DSA_project)](https://github.com/hzjadoon/DSA_project/issues)
 [![GitHub forks](https://img.shields.io/github/forks/hzjadoon/DSA_project)](https://github.com/hzjadoon/DSA_project/network)
