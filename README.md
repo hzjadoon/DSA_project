@@ -1,7 +1,6 @@
 # DSA Project
 
 ![DSA Project Banner](https://github.com/hzjadoon/DSA_project/blob/main/Readme%20Files/Community%20Management%20System.png)
-
 [![GitHub issues](https://img.shields.io/github/issues/hzjadoon/DSA_project)](https://github.com/hzjadoon/DSA_project/issues)
 [![GitHub forks](https://img.shields.io/github/forks/hzjadoon/DSA_project)](https://github.com/hzjadoon/DSA_project/network)
 [![GitHub stars](https://img.shields.io/github/stars/hzjadoon/DSA_project)](https://github.com/hzjadoon/DSA_project/stargazers)
@@ -29,13 +28,11 @@ Welcome to the DSA Project repository! This project showcases implementations of
 
 ## Installation
 To get started with this project, follow these steps:
-
 1. **Clone the repository**
     ```bash
     git clone https://github.com/hzjadoon/DSA_project.git
     cd DSA_project
     ```
-
 2. **Compile the code**
     Ensure you have a C++ compiler installed. You can compile the project using the following command:
     ```bash
@@ -57,17 +54,12 @@ Contributions are welcome! If you have suggestions for improvements, please foll
 3. **Commit your changes** (`git commit -am 'Add new feature'`).
 4. **Push to the branch** (`git push origin feature-branch`).
 5. **Create a new Pull Request.**
-
-Read our [CONTRIBUTING](CONTRIBUTING.md) guidelines for more details.
-
+6. 
 ## License
-
 This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-
 For any inquiries or feedback, feel free to reach out:
-
 - **GitHub**: [hzjadoon](https://github.com/hzjadoon)
 - **Email**: [hzjadoon@example.com](mailto:Hassanzaibjadoon2004@gmail.com)
 
